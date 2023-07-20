@@ -4,6 +4,8 @@
 
 This project is a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria.
 
+Depolyment link: 
+
 ## Installation
 
 Clone the repo and run an 'npm i' to install dependencies. Run npm start to launch. The app will be avaliable locally at http://localhost:3000/.
