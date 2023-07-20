@@ -4,7 +4,8 @@
 
 This project is a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria.
 
-Depolyment link: 
+Depolyment link: https://text-editor-pwa-crit-dd99cc88e911.herokuapp.com/
+
 
 ## Installation
 
