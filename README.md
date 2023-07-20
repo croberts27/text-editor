@@ -6,9 +6,16 @@ This project is a text editor that runs in the browser. The app is a single-page
 
 ## Installation
 
-Clone the repo and run an 'npm i' to install dependencies. Run npm start to launch. The app should then be avaliable via http://localhost:3000/.
+Clone the repo and run an 'npm i' to install dependencies. Run npm start to launch. The app will be avaliable locally at http://localhost:3000/.
 
 If loading via Heroku, click the downloadable app button in the browser bar to install.
+
+## Screenshots
+
+![jate-app](Develop/images/jate-app.PNG)
+---
+---
+![jate](Develop/images/jate.PNG)
 
 ## Usage
 
