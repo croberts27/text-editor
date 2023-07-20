@@ -14,10 +14,10 @@ If loading via Heroku, click the downloadable app button in the browser bar to i
 
 ## Screenshots
 
-![jate-app](Develop/images/jate-app.PNG)
+![jate-app](images/jate-app.PNG)
 ---
 ---
-![jate](Develop/images/jate.PNG)
+![jate](images/jate.PNG)
 
 ## Usage
 
